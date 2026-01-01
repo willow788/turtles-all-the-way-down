@@ -1,1 +1,12 @@
 This code make a series of circles of various colors, which together looks like spirals
+1st we will initialise a turtle object
+then we will set the color of the background as black
+we will initialise the speed of the pen at the highest
+
+we have a list of the colors
+
+then we have to initialise a colorful spirals
+while we iterate through the loop, we will cycle through the colors
+then draw a circle of that color
+then turn left by 59 degree
+then we are finishing the drawing.
