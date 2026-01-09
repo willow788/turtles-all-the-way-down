@@ -1,0 +1,2 @@
+Formula:
+r = a (1 − cos θ)
